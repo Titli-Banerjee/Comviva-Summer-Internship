@@ -39,6 +39,11 @@ In this project, we will be working with Amazon Review Data from UCSD website (h
 
 Because of the vast size of the data, we will be working with a particular category of products - <b> Luxury Beauty </b>.
 
+link:
+http://deepyeti.ucsd.edu/jianmo/amazon/categoryFiles/Luxury_Beauty.json.gz
+http://deepyeti.ucsd.edu/jianmo/amazon/metaFiles2/meta_Luxury_Beauty.json.gz
+
+
 ## Code Description
 
 1. Data Loading and Preprocessing - This file contains the code for extracting the data from zip files, cleaning and preprocessing the data. Some EDA and basic data visualization has also been performed here. Finally, a cleaned CSV file is generated from this code, which is used for futher processing by the different recommendation systems.
